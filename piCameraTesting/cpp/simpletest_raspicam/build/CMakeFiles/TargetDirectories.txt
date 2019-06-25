@@ -1,0 +1,5 @@
+/home/pi/camera/cpp/simpletest_raspicam/build/CMakeFiles/rebuild_cache.dir
+/home/pi/camera/cpp/simpletest_raspicam/build/CMakeFiles/simpletest_raspicam.dir
+/home/pi/camera/cpp/simpletest_raspicam/build/CMakeFiles/edit_cache.dir
+/home/pi/camera/cpp/simpletest_raspicam/build/CMakeFiles/simpletest_raspicam_cv.dir
+/home/pi/camera/cpp/simpletest_raspicam/build/CMakeFiles/centroid_stream.dir
